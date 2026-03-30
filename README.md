@@ -1,6 +1,7 @@
 # Equity-Option-Valuation
 A general framework for valuing European vanilla call options using Black-Scholes-Merton, binomial tree, and Monte Carlo, using AAPL as an example.
 
+
 ## Overview
 
 This project builds an Excel-based valuation framework for European vanilla call options and compares three pricing methods:
